@@ -1,6 +1,0 @@
-bin
-maven.log
-target
-velocity.log
-.gitignore
-.git
