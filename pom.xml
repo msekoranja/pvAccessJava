@@ -130,6 +130,7 @@
                     </execution>
                 </executions>
                 <configuration>
+                    <failOnError>false</failOnError>
                     <overview>documentation/pvAccessJava.html</overview>
                 </configuration>
             </plugin>
