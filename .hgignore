@@ -3,3 +3,4 @@ doc
 target
 documentation/html
 .classpath
+.project
