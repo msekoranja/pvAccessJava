@@ -1,0 +1,13 @@
+org.epics.pvaccess.client.example
+org.epics.pvaccess.client.pvds.util.test
+org.epics.pvaccess.client.rpc.test
+org.epics.pvaccess.client.test
+org.epics.pvaccess.impl.remote.codec.test
+org.epics.pvaccess.impl.remote.codec.test.perf
+org.epics.pvaccess.impl.remote.io.impl.test
+org.epics.pvaccess.impl.remote.utils.test
+org.epics.pvaccess.server.rpc.test
+org.epics.pvaccess.server.test
+org.epics.pvaccess.server.test.helpers
+org.epics.pvaccess.util.logging.test
+org.epics.pvaccess.util.test

@@ -1,0 +1,26 @@
+-classpath
+'/Users/msekoranja/.m2/repository/org/epics/jca/2.3.6/jca-2.3.6.jar:/Users/msekoranja/.m2/repository/org/epics/pvDataJava/4.1.0-SNAPSHOT/pvDataJava-4.1.0-SNAPSHOT.jar:/Users/msekoranja/.m2/repository/org/epics/caj/1.1.14/caj-1.1.14.jar'
+-encoding
+'UTF-8'
+-overview
+'/Users/msekoranja/GitHub/pvAccessJava/documentation/pvAccessJava.html'
+-protected
+-sourcepath
+'/Users/msekoranja/GitHub/pvAccessJava/src:/Users/msekoranja/GitHub/pvAccessJava/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2015. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/msekoranja/GitHub/pvAccessJava/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pvAccess - Java 4.1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' '/Users/msekoranja/GitHub/pvAccessJava/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'pvAccess - Java 4.1.0-SNAPSHOT API'
